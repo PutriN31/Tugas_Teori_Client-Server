@@ -6,7 +6,7 @@ package programmerzamannow.spring.core.data;
 
 /**
  *
- * @author Vandi
+ * @author putri
  */
 public class Foo {
     

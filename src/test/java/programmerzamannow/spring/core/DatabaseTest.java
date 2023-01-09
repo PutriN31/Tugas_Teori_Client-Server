@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  *
- * @author Vandi
+ * @author putri
  */
 public class DatabaseTest {
     

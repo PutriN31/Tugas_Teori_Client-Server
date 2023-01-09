@@ -15,7 +15,7 @@ import programmerzamannow.spring.core.scope.DoubletonScope;
 
 /**
  *
- * @author Vandi
+ * @author putri
  */
 
 @Slf4j

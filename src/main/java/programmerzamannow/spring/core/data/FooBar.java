@@ -9,7 +9,7 @@ import lombok.Data;
 
 /**
  *
- * @author Vandi
+ * @author putri
  */
 
 @AllArgsConstructor

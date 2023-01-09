@@ -6,7 +6,7 @@ package programmerzamannow.spring.core;
 
 /**
  *
- * @author Vandi
+ * @author putri
  */
 public class Database {
     

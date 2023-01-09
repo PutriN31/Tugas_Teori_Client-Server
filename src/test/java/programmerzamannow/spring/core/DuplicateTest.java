@@ -13,7 +13,7 @@ import programmerzamannow.spring.core.data.Foo;
 
 /**
  *
- * @author Vandi
+ * @author putri
  */
 public class DuplicateTest {
 
@@ -33,7 +33,13 @@ public class DuplicateTest {
         
         Foo foo1 = context.getBean("foo1", Foo.class);
         Foo foo2 = context.getBean("foo2", Foo.class);
+        Object foo3 = null;
+        
+       Assertions.assertSame(foo1, foo3);
+        Object foo4 = null;
+        Assertions.assertSame(foo2, foo4);
         
         Assertions.assertNotSame(foo1, foo2);
+        Assertions.assertNotSame(foo3, foo4);
     }
 }

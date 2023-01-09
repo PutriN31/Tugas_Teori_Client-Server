@@ -14,7 +14,7 @@ import programmerzamannow.spring.core.data.Foo;
 
 /**
  *
- * @author Vandi
+ * @author putri
  */
 public class ScopeTest {
     

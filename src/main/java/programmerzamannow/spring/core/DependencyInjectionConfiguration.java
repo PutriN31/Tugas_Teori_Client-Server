@@ -14,7 +14,7 @@ import programmerzamannow.spring.core.data.FooBar;
 
 /**
  *
- * @author Vandi
+ * @author putri
  */
 
 @Configuration

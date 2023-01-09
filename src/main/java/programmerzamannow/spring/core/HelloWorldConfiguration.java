@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  *
- * @author Vandi
+ * @author putri
  */
 @Configuration
 public class HelloWorldConfiguration {

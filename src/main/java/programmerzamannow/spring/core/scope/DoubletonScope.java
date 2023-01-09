@@ -11,7 +11,7 @@ import org.springframework.beans.factory.config.Scope;
 
 /**
  *
- * @author Vandi
+ * @author putri
  */
 public class DoubletonScope implements Scope{
     

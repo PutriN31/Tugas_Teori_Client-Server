@@ -9,10 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import programmerzamannow.spring.core.data.Foo;
 
-/**
- *
- * @author Vandi
- */
+
 @Slf4j
 @Configuration
 public class BeanConfiguration {

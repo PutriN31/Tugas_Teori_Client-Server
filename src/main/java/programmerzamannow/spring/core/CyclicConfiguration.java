@@ -12,7 +12,7 @@ import programmerzamannow.spring.core.data.cyclic.CyclicC;
 
 /**
  *
- * @author Vandi
+ * @author putri
  */
 
 @Configuration
